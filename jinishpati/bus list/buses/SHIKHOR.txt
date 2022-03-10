@@ -1,0 +1,25 @@
+SHIKHOR
+
+Available seats 37
+
+
+
+
+ROUTE               FARE(BDT)
+
+
+Mirpur-12------------------- 0
+
+Mirpur-10------------------- 5
+
+Kaji-Para------------------10
+
+ShewraPara--------------10
+
+Agargaon------------------15
+
+Dhanmondi-27----------20
+
+Dhanmondi-32----------20
+
+Azimpur-------------------25

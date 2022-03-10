@@ -1,0 +1,25 @@
+                  TRANSILVA
+
+
+Total seats 37
+
+
+ROUTE                 FARE(BDT)
+
+
+
+Mirpur-1-------------------0
+
+Kollanpur----------------15
+
+Shamoly-----------------15
+
+AsadGate---------------15
+
+Dhanmondi-27--------15
+
+Dhanmondi-32--------20
+
+ElephantRoad---------20
+
+JatraBari----------------30
